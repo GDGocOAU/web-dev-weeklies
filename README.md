@@ -1,2 +1,2 @@
-# web-dev-weeklies
-This contains the weekly activities (articles, newsletter and code challenges) for the Web Dev track.
+# Web Dev Weeklies
+This repo contains the weekly activities (articles, newsletters and code challenges) for the Web Dev track.
